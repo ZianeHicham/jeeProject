@@ -37,5 +37,6 @@ public class servlet_test extends HttpServlet {
 		// TODO Auto-generated method stub
 		doGet(request, response);
 	}
-
+	
 }
+
